@@ -40,7 +40,7 @@ When the page loads, we should only see a summary of your favorite things.
 When one of the summary items is clicked, the detail information for that item should be shown and the detail for all other items should be hidden.  __Only one items details should be shown at a time.__
 
 
-__Important Note:__  Yes, jQuery has a UI component to do this.  No you cannot use it for this assignment. The assignment involves the creation of your own show/hide behavior to illustrate that you understand some basic jQuery and JavaScript.  Using any other 3rd party component to do this defeats the purpose of the assignment.
+__Important Note:__  If you feel adventurous, jQuery has a UI component to do this.  
 
 
 ## Code Structure
