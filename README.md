@@ -13,7 +13,7 @@ Gather some information on your favorite things.  One part of that information w
 
 
 ## GitHub Repository
-https://github.com/htc-ccis2591/favorite-things-proj/
+https://github.com/htc-ccis2591-spring2017/favorite-things-proj/
 
 As usual you will need to fork and clone this repository to begin the assignment, and submit a pull request for grading when the assignment is complete.  
 
