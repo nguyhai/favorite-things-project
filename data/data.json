@@ -1,0 +1,32 @@
+{
+	"videogames": [{
+		"name": "League of Legends",
+		"image": "Find Image Later and put it here",
+		"description": "An online battle arena game that pits two teams against each other, with a total of 10 players"
+	}, {
+		"name": "Battlefield Series",
+		"image": "Find Image Later and put it here",
+		"description": "Shooting FPS game"
+
+	}, {
+		"name": "Diablo 3",
+		"image": "Find Image Later and put it here",
+		"description": "Action RPG"
+
+
+	}],
+
+	"foods": [{
+		"name": "Sushi",
+		"image": "Find Image Later and put it here",
+		"description": "Sushi so good"
+	}, {
+		"name": "Juicy Lucy Burgers",
+		"image": "Find Image Later and put it here",
+		"description": "Has Cheese in the middle"
+	}, {
+		"name": "Pho",
+		"image": "Find Image Later and put it here",
+		"description": "Vietnamese beef noodle soup"
+	}]
+}
