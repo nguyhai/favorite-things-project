@@ -16,10 +16,18 @@ $(function () {
         $("#foods p").hide();
 
         //Click event to toggle details under videogames
+        
+
 
         $("#videogames h2").on("click", function () {
+            
 
             $(this).next().toggle();
+            
+            //Add in logic so that everything else hides. 
+            $("#videogames h2").not(this).next().hide();
+            $("#foods h2").not(this).next().hide();
+
 
         });
 
@@ -27,7 +35,10 @@ $(function () {
         $("#foods h2").on("click", function () {
 
             $(this).next().toggle();
-
+            
+            //Hide everything else
+            $("#videogames h2").not(this).next().hide();
+            $("#foods h2").not(this).next().hide();
         });
 
     });
