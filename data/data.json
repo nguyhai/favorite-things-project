@@ -1,32 +1,32 @@
 {
-	"videogames": [{
-		"name": "League of Legends",
-		"image": "league.jpg",
-		"description": "An online battle arena game that pits two teams against each other, with a total of 10 players"
+    "videogames": [{
+        "name": "League of Legends",
+        "image": "league.jpg",
+        "description": "An multiplayer online battle arena game that pits two teams against each other, with a total of 10 players. It is a competitive online game that blends the speed and intensity of an RTS with RPG elements."
 	}, {
-		"name": "Battlefield Series",
-		"image": "battlefield.jpg",
-		"description": "Shooting FPS game"
+        "name": "Battlefield Series",
+        "image": "battlefield.jpg",
+        "description": "A series of first person shooter games that features a particular focus on large maps, teamwork and vehicle warfare, compared to many other FPS games."
 
 	}, {
-		"name": "Diablo 3",
-		"image": "diablo3.jpg",
-		"description": "Action RPG"
+        "name": "Diablo 3",
+        "image": "diablo3.jpg",
+        "description": "An action role-playing game, with a lot of focus on loot."
 
 
 	}],
 
-	"foods": [{
-		"name": "Sushi",
-		"image": "sushi.jpg",
-		"description": "Sushi so good"
+    "foods": [{
+        "name": "Sushi",
+        "image": "sushi.jpg",
+        "description": "A type food that originated from Japane, Sushi can be prepared with either brown or white rice. It is often prepared with raw seafood, but some common varieties of sushi use cooked ingredients, and many other sorts are vegetarian."
 	}, {
-		"name": "Juicy Lucy Burgers",
-		"image": "juicy.jpg",
-		"description": "Has Cheese in the middle"
+        "name": "Juicy Lucy Burgers",
+        "image": "juicy.jpg",
+        "description": "The Juicy Lucy is a cheeseburger that has the cheese inside the meat patty instead of on top, resulting in a melted core of cheese within the patty."
 	}, {
-		"name": "Pho",
-		"image": "pho.jpg",
-		"description": "Vietnamese beef noodle soup"
+        "name": "Pho",
+        "image": "pho.jpg",
+        "description": "Pho Vietnamese noodle soup consisting of broth, rice noodles and meat."
 	}]
 }
