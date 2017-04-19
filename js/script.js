@@ -84,6 +84,4 @@ $.getJSON("data/data.json", function (data) {
         
     }
     
-
-    
 });
